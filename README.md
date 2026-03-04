@@ -65,4 +65,5 @@ Connection Distance: Modify the distance check in connectParticles().
 📜 License
 This project is open source and available under the MIT License. Feel free to use it for personal or commercial purposes.
 
-Built with ❤️ by
+
+Built with ❤️ by Afra
